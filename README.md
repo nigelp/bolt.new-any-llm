@@ -1,3 +1,12 @@
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/nigelp?pet-id=654367042494393084"
+    width="600"
+    height="120"
+  />
+</a>
+  
 [![Bolt.new: AI-Powered Full-Stack Web Development in the Browser](./public/social_preview_index.jpg)](https://bolt.new)
 
 # Bolt.new Fork by Cole Medin - oTToDev
